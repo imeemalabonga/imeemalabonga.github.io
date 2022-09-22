@@ -28,7 +28,7 @@ I am [Imee Malabonga](https://www.agingmillennial.net/links) <!-- <img src="http
 
 Experienced technical writer and web content developer with over 14 years of successful experience in technical documentation and web content. Recognized consistently for performance excellence and contributions to success in various industries including aviation/airlines, semiconductors, and payment processing. Understanding of modern editing and publishing software, including Microsoft Visual Studio Code and WordPress.
 
-## Technical Writing, Web Development, and Documentation Experience
+## Technical Writing, Web Content Development, and Documentation Experience
 
 ### Deltek
 Senior Technical Writer - APIs and Integrations (March 2022 - present)

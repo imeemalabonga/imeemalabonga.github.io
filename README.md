@@ -1,28 +1,13 @@
 ### Hi there 👋
 
 <!--
-**imeemalabonga/imeemalabonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
 
 [![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.agingmillennial.net/)
 
 -->
 
 
-I am [Imee Malabonga](https://www.agingmillennial.net/links) <!-- <img src="https://www.creative-tim.com/assets/logo/logo-ct-white-170d794e447f75aec55c6effdfbedced9dd268ceceece152675ff8f9891e3588.svg" /> -->
+I am [Imee Malabonga](http://linkedin.com/in/imeemalabonga/) - _Technical Writer, Web Content Developer, Documentation Specialist_
 
 ## About Me
 
@@ -30,33 +15,32 @@ Experienced technical writer and web content developer with over 14 years of suc
 
 ## Technical Writing, Web Content Development, and Documentation Experience
 
-### Deltek
-Senior Technical Writer - APIs and Integrations (March 2022 - present)
+### Senior Technical Writer - APIs and Integrations
+Deltek (March 2022 - present)
 - Creates, updates, and uploads integration reference documentation
 - Updates and uploads API documentation
 - Contributes to company terminology list project
     
-### AdButler
-Technical Writer - API (May 2021 - January 2022)
-_(Contractual role)_
+### Technical Writer - API
+AdButler (May 2021 - January 2022)
 - Wrote and edited technical documentation, with concentration on API documentation and occasional user guides.
 
-### Elavon, Inc.
-Senior Technical Writer / Web Content Developer (May 2018 - April 2021)
+### Senior Technical Writer / Web Content Developer
+Elavon, Inc. (May 2018 - April 2021)
 _(Full-time role through RCG Information Technology)_
 - Wrote and edited technical documentation for Elavon software, including API documents and SDK integration guides.
 - Wrote and maintained content in the developer portal for Elavon’s European and North American customers.
 - Helped in maintaining documentation framework best practices within Elavon and US Bank.
 - Interviewed and helped in hiring prospective technical writer candidates within Elavon and RCG.
 
-### Microchip Technology, Inc. - Advanced Test Development Corp.
-Technical Writer / Editor (January 2014 - April 2017)
+### Technical Writer / Editor
+Microchip Technology, Inc. - Advanced Test Development Corp. (January 2014 - April 2017)
 - Wrote and updated data sheets, application notes, user's guides, errata documents, and other technical documents, following ISO/TS quality standards and Marketing Communications (Marcom) Team guidelines.
 - Edited and converted technical documentation of an acquisition from the previous company's documentation format into Microchip's standards.
 - Created or requested photos, schematics, and other graphics used in both hardware and software documentation, and edited them as necessary.
 
-### Navitaire, LLC - An Accenture Company
-Associate Technical Writer (September 2010 - May 2013)
+### Associate Technical Writer
+Navitaire, LLC - An Accenture Company (September 2010 - May 2013)
 _(Full-time role through Accenture. Navitaire was acquired by Amadeus well after my resignation.)_
 - Created and updated software release notes (major and patch releases), web and online (Microsoft Compiled HTML) help, and software user guides.
 - Assisted in quality assurance (QA) testing, with concentration on testing user help documentation.

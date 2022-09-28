@@ -16,17 +16,17 @@ Experienced technical writer and web content developer with over 14 years of suc
 ## Technical Writing and Documentation Experience
 
 ### Senior Technical Writer - APIs and Integrations
-Deltek (March 2022 - present)
+**Deltek** (March 2022 - present)
 - Creates, updates, and uploads integration reference documentation
 - Updates and uploads API documentation
 - Contributes to company terminology list project
     
 ### Technical Writer - API
-AdButler (May 2021 - January 2022)
+**AdButler** (May 2021 - January 2022)
 - Wrote and edited technical documentation, with concentration on API documentation and occasional user guides.
 
 ### Senior Technical Writer / Web Content Developer
-Elavon, Inc. (May 2018 - April 2021)<br />
+**Elavon, Inc.** (May 2018 - April 2021)<br />
 _(Full-time role through RCG Information Technology)_
 - Wrote and edited technical documentation for Elavon software, including API documents and SDK integration guides.
 - Wrote and maintained content in the developer portal for Elavon’s European and North American customers.

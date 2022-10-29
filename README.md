@@ -17,9 +17,10 @@ Experienced technical writer and web content developer with over 14 years of suc
 
 ### Senior Technical Writer - APIs and Integrations
 **Deltek** (March 2022 - present)
-- Creates, updates, and uploads integration reference documentation
-- Updates and uploads API documentation
-- Contributes to company terminology list project
+- Creates, updates, and uploads integration reference documentation for several products
+- Updates and uploads API documentation for several products
+- Regularly contributes to the team terminology list project
+- Created the training materials and demo of the SDL Tridion Docs Collective Spaces tool for a small team of SMEs
     
 ### Technical Writer - API
 **AdButler** (May 2021 - January 2022)
@@ -34,8 +35,8 @@ _(Full-time role through RCG Information Technology)_
 - Interviewed and helped in hiring prospective technical writer candidates within Elavon and RCG.
 
 ### Technical Writer / Editor
-Microchip Technology, Inc. - Advanced Test Development Corp. (January 2014 - April 2017)
-- Wrote and updated data sheets, application notes, user's guides, errata documents, and other technical documents, following ISO/TS quality standards and Marketing Communications (Marcom) Team guidelines.
+**Microchip Technology, Inc. - Advanced Test Development Corp.** (January 2014 - April 2017)
+- Wrote and updated data sheets, application notes, user's guides, errata documents, and other technical documents, following ISO/TS quality standards and Marketing Communications (MarCom) Team guidelines.
 - Edited and converted technical documentation of an acquisition from the previous company's documentation format into Microchip's standards.
 - Created or requested photos, schematics, and other graphics used in both hardware and software documentation, and edited them as necessary.
 
@@ -103,6 +104,7 @@ _(Full-time role through K8 Applied Innovation)_
 
 ### Reporter / Announcer
 **DZSR Sports Radio 918 KHz** (June 2007)
+_(DZSR is now Radyo Pilipinas Dos)_
 - Attended various sporting events and interviewed athletes.
 - Clipped various news articles from newspapers and various sports websites.
 - Wrote articles for radio and TV broadcast, in both English and Filipino (Tagalog).
@@ -110,7 +112,6 @@ _(Full-time role through K8 Applied Innovation)_
 
 ### Reporter
 **Philippine News Agency** (April 2007 - May 2007)<br />
-_(DZSR is now Radyo Pilipinas Dos)_
 - Attended press conferences.
 - Wrote articles based on press conferences attended or news found on television, internet, and newspapers.
 

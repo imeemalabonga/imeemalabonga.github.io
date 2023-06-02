@@ -11,16 +11,16 @@ I am [Imee Malabonga](http://linkedin.com/in/imeemalabonga/) - _Technical Writer
 
 ## About Me
 
-Experienced technical writer and web content developer with over 14 years of successful experience in technical documentation and web content. Recognized consistently for performance excellence and contributions to success in various industries including aviation/airlines, semiconductors, and payment processing. Understanding of modern editing and publishing software, including Microsoft Visual Studio Code and WordPress.
+Experienced technical writer and web content developer with 15 years of successful experience in technical documentation and web content development. Recognized consistently for performance excellence and contributions to success in various tech industries including aviation/airline software solutions, semiconductors, payment processing software, and small business enterprise software. Demonstrates firm grasp of modern editing and publishing applications, such as Microsoft Visual Studio Code and WordPress. Specializes in documenting APIs and integration.
 
 ## Technical Writing and Documentation Experience
 
 ### Senior Technical Writer - APIs and Integrations
 **Deltek** (March 2022 - present)
-- Creates, updates, and uploads integration reference documentation for several products
-- Updates and uploads API documentation for several products
-- Regularly contributes to the team terminology list project
-- Created the training materials and demo of the SDL Tridion Docs Collective Spaces tool for a small team of SMEs
+- Creates, updates, and uploads integration reference documentation and release notes descriptions for several products.
+- Updates and uploads API documentation for several products.
+- Regularly contributes to the team terminology list project.
+- Created and presented the training materials and demo of the SDL Tridion Docs Collective Spaces tool for a small group of subject matter experts (SMEs).
     
 ### Technical Writer - API
 **AdButler** (May 2021 - January 2022)
@@ -87,18 +87,53 @@ _(Full-time role through K8 Applied Innovation)_
 - Edited and rewrote outsourced web content for clarity and to fix grammar issues.
 - Participated in group editing/learning sessions at least once a week.
 
-### SEO Web Content Writer
-**SEO Magic Webs** (November 2009 - December 2009)
-- Wrote and spun web content for various websites and blogs.
-
 ### Web Copywriter
 **Global BPO (Manila) Inc.** (June 2008 - July 2009)
 - Wrote, edited, and published web content for various websites and blogs via WordPress.
 - Promoted client websites and individual published articles through online marketing, specifically link building, social media posts, and search engine optimization (SEO).
 
-## Freelance Work
+## Assorted Freelance Work
 
-(Under construction)
+### Social Media Specialist
+(December 2014 - Present)
+- Creates and promotes content for various social media (Facebook, Twitter, Instagram, Snapchat, TikTok, etc.), including web copy, graphics, photos, videos, and live online coverage for various musicians, organizations, and events.
+
+Notable clients:
+- The Art Elephant (February 2014-July 2017)
+- Seismos Philippines (December 2014-October 2016)
+- Continent Records (October 2015-June 2017)
+- Misadventures (May 2016-June 2017)
+- Sleeping Boy Collective (May 2017-present)
+
+### Technical Writer
+(June 2017 - January 2022)
+- Created and edited technical documentation and technical web content for various clients and websites.
+
+Notable clients:
+- SureSwift Capital (June 2017-November 2017)
+- SparkLIT (May 2021-January 2022)
+
+### Web Content Specialist
+(December 2008 - October 2020)
+- Created and edited web content for various client websites.
+- "Spun" web content for various websites and blogs.
+- Occasionally also responsible for finding and uploading corresponding images.
+
+Notable clients:
+- SEO Magic Webs (November 2009-December 2009)
+- The Art Elephant (February 2014-July 2017)
+- Indigo 21 Ltd. (May 2017-September 2017)
+- Lamudi Philippines Inc. (March 2018-March 2019)
+- Bagani Lifestyle (November 2018)
+- J2 Consulting Inc. (now AUM Agency) [August 2020-October 2020]
+
+### Desktop Publisher
+Contract (2009 - 2010)
+- Created a reunion souvenir book for a client group, including scanning and cleaning old photographs, creating the layout, printing a physical copy, and getting them professionally bound.· Created a reunion souvenir book for a client group, including scanning and cleaning old photographs, creating the layout, printing a physical copy, and getting them professionally bound.
+
+### Medical Data Entry
+Contract (October 2009)
+- Encoded information, checking for any errors in spelling for medical and pharmaceutical data.
 
 ## Internships
 
@@ -118,13 +153,40 @@ _(DZSR is now Radyo Pilipinas Dos)_
 ## Education
 
 ### Certificate in Professional Technical Writing
-University of Washington (ongoing; projected graduation: November 2022)
+University of Washington (November 2022)
+- Portfolio Project (Spring Quarter '22): [How to Create a Basic Writer's Portfolio Website Using WordPress](https://www.linkedin.com/in/imeemalabonga/overlay/education/782843538/multiple-media-viewer?profileId=ACoAABBNiRwBnCmnEuhYV-6boKijmvKX3nwv40U&treasuryMediaId=1635492569254&type=DOCUMENT&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByKk02DdUTA%2BTqKEDzbdz0g%3D%3D)
+- Portfolio Project Alpha - Writer (Summer Quarter '22): [Simple Guide to Raising Abandoned Kittens](https://www.linkedin.com/in/imeemalabonga/overlay/education/782843538/multiple-media-viewer?profileId=ACoAABBNiRwBnCmnEuhYV-6boKijmvKX3nwv40U&treasuryMediaId=1635495610598&type=DOCUMENT&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByKk02DdUTA%2BTqKEDzbdz0g%3D%3D) (group project with Serenity Lumbard and Skyler Scott)
+- Portfolio Project Beta - Production Specialist (Summer Quarter '22): [How to Tag Fics on AO3](https://www.linkedin.com/in/imeemalabonga/overlay/education/782843538/multiple-media-viewer?profileId=ACoAABBNiRwBnCmnEuhYV-6boKijmvKX3nwv40U&treasuryMediaId=1635498007430&type=DOCUMENT&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByKk02DdUTA%2BTqKEDzbdz0g%3D%3D)
+- Portfolio Project Gamma - Editor (Summer Quarter '22): [How to Create a Brand Board Using Canva](https://www.linkedin.com/in/imeemalabonga/overlay/education/782843538/multiple-media-viewer?profileId=ACoAABBNiRwBnCmnEuhYV-6boKijmvKX3nwv40U&treasuryMediaId=1635500183390&type=DOCUMENT&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByKk02DdUTA%2BTqKEDzbdz0g%3D%3D)
+- Portfolio Project (Autumn Quarter '22): [Autism Police Training Website | Project by The Instructables](https://autismpolicetraining.wordpress.com/) (group project with Victor Garciamontes, Janet Khokhar, Jen Leary)
 
 ### Bachelor of Arts in Journalism
 University of Santo Tomas, Manila (March 2008)
+- Thesis: [Views on Professionalizing Newspaper Journalism In the Philippines: A Historical Approach"](https://www.linkedin.com/in/imeemalabonga/overlay/1635527947975/single-media-viewer?type=DOCUMENT&profileId=ACoAABBNiRwBnCmnEuhYV-6boKijmvKX3nwv40U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B3GHTT3uSTCiCJdtwwF0p1w%3D%3D) (co-authored with Shiela Francisco, Ana Carmela Ledesma, and Denise Limson)
 
 ### Primary and Secondary Education
 Siena College, Quezon City (March 2004)
+
+## Specializations and Training
+
+### Developing APIs with Google Cloud's Apigee API Platform
+- Coursera - June 1, 2023 - [Certificate](https://coursera.org/share/2e49b36ef29797a569e2415ef029d632)
+- Courses completed:
+    - API Design and Fundamentals of Google Cloud's Apigee API Platform
+    - API Security on Google Cloud's Apigee API Platform
+    - API Development on Google Cloud's Apigee API Platform
+
+### Workato - Automation Pro I
+- Workato - April 4, 2022 - [Certificate](https://verify.skilljar.com/c/xsijgoyrx8fh)
+
+### Introduction to Online Journalism
+- Reuters - April 2022 - [Certificate](https://reutersdigitaljournalism.com/course_completed_certificate/111972.html?l=en)
+
+### Digital Marketing and Advertising
+- Udemy - May 4, 2021 - [Certificate - 101](https://www.udemy.com/certificate/UC-16d3eba7-04d3-4444-bd08-85adb766c1b8/)
+- Udemy - May 7, 2021 - [Certificate - 201](https://www.udemy.com/certificate/UC-dbb1bac7-f9d9-4abf-a796-0883cd105968/)
+
+### (Under construction)
 
 ## Skills
 
@@ -143,6 +205,11 @@ Siena College, Quezon City (March 2004)
 
 ## Organizations
 
+### Sleeping Boy Collective
+Philippines-based concert tour
+- Member (May 2017 - Present)
+- Social media and tickets: https://linktr.ee/sleepingboycollective
+
 ### Accenture Photography Club
 Official photography club within all of Accenture, including its subsidiaries
 - Member (2011 - 2013)
@@ -150,6 +217,7 @@ Official photography club within all of Accenture, including its subsidiaries
 ### Navitaire’s LINK Black Box
 Navitaire’s online news and features publication
 - Member, Writer, Webmaster (2011 - 2013)
+- Website: https://blackboxnav.wordpress.com/
 
 ### Navitaire’s LINK Wellness/Sports
 Navitaire’s group for health and wellness enthusiasts
@@ -177,4 +245,4 @@ Official print publication for and by Siena College’s elementary and high scho
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/imeemalabonga)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:imeemalabonga@gmail.com)
 
-<p align="center"> © 2022 Imee Malabonga, all rights reserved.</p>
+<p align="center"> © 2023 Imee Malabonga, all rights reserved.</p>

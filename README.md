@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-<!--
+[![Header](https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif "Header")](https://www.linkedin.com/in/imeemalabonga)
 
-[![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.agingmillennial.net/)
-
--->
-
-
-I am [Imee Malabonga](http://linkedin.com/in/imeemalabonga/) - _Technical Writer, Web Content Developer, Documentation Specialist_
+I am [Imee Malabonga](https://github.com/imeemalabonga) - _Technical Writer, Web Content Developer, Documentation Specialist_
 
 ## About Me
 
@@ -197,7 +192,13 @@ Siena College, Quezon City (March 2004)
 
 ### Tech Skills
 
-(under construction)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 ### Soft Skills
 
@@ -245,4 +246,4 @@ Official print publication for and by Siena College’s elementary and high scho
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/imeemalabonga)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:imeemalabonga@gmail.com)
 
-<p align="center"> © 2023 Imee Malabonga, all rights reserved.</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=imeemalabonga&style=flat-square&color=blue" alt=""/><br>© 2023 Imee Malabonga, all rights reserved.</p>

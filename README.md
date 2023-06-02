@@ -54,13 +54,13 @@ _(Full-time role through Accenture. Navitaire was acquired by Amadeus after my r
 ## Personal Blog
 
 ### Owner
-**The Aging Millennial** (Nov 2017 - Present)<br />
+**The Aging Millennial** (November 2017 - Present)<br />
 _A personal blog I created, continuing from my previous, now defunct personal blogs Rocker-Girl.net (2002-2006) and ImeeRocks.net (2006-2014)_
-- Writes blog posts about travel, lifestyle, beauty, skincare, hair, and various other personal experiences
-- Writes product reviews on the blog, as well as on Instagram and other partner brands' websites
-- Creates video tutorials for YouTube (and formerly also Instagram TV), mainly for hair products and wigs
-- Creates web content for various social media in partnership with brands
-- Manages WordPress - themes, plugins, and occasional backend development
+- Writes blog posts about travel, lifestyle, beauty, skincare, hair, and various other personal experiences.
+- Writes product reviews on the blog, as well as on Instagram and other partner brands' websites.
+- Creates video tutorials for YouTube (and formerly also Instagram TV), mainly for hair products and wigs.
+- Creates web content for various social media in partnership with brands.
+- Manages WordPress - themes, plugins, and occasional backend development.
 
 ##  Web Content Development Experience
 
@@ -133,7 +133,7 @@ Contract (October 2009)
 ## Internships
 
 ### Reporter / Announcer
-**DZSR Sports Radio 918 KHz** (June 2007)
+**DZSR Sports Radio 918 KHz** (June 2007)<br />
 _(DZSR is now Radyo Pilipinas Dos)_
 - Attended various sporting events and interviewed athletes.
 - Clipped various news articles from newspapers and various sports websites.

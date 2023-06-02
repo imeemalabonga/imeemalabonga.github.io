@@ -153,7 +153,7 @@ University of Washington (November 2022)
 - Portfolio Project Alpha - Writer (Summer Quarter '22): [Simple Guide to Raising Abandoned Kittens](https://www.linkedin.com/in/imeemalabonga/overlay/education/782843538/multiple-media-viewer?profileId=ACoAABBNiRwBnCmnEuhYV-6boKijmvKX3nwv40U&treasuryMediaId=1635495610598&type=DOCUMENT&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByKk02DdUTA%2BTqKEDzbdz0g%3D%3D) (group project with Serenity Lumbard and Skyler Scott)
 - Portfolio Project Beta - Production Specialist (Summer Quarter '22): [How to Tag Fics on AO3](https://www.linkedin.com/in/imeemalabonga/overlay/education/782843538/multiple-media-viewer?profileId=ACoAABBNiRwBnCmnEuhYV-6boKijmvKX3nwv40U&treasuryMediaId=1635498007430&type=DOCUMENT&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByKk02DdUTA%2BTqKEDzbdz0g%3D%3D)
 - Portfolio Project Gamma - Editor (Summer Quarter '22): [How to Create a Brand Board Using Canva](https://www.linkedin.com/in/imeemalabonga/overlay/education/782843538/multiple-media-viewer?profileId=ACoAABBNiRwBnCmnEuhYV-6boKijmvKX3nwv40U&treasuryMediaId=1635500183390&type=DOCUMENT&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByKk02DdUTA%2BTqKEDzbdz0g%3D%3D)
-- Portfolio Project (Autumn Quarter '22): [Autism Police Training Website | Project by The Instructables](https://autismpolicetraining.wordpress.com/) (group project with Victor Garciamontes, Janet Khokhar, Jen Leary)
+- Portfolio Project (Autumn Quarter '22): [Autism Police Training Website](https://autismpolicetraining.wordpress.com/) (group project with Victor Garciamontes, Janet Khokhar, Jen Leary)
 
 ### Bachelor of Arts in Journalism
 University of Santo Tomas, Manila (March 2008)

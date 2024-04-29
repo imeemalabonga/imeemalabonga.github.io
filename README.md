@@ -225,7 +225,7 @@ Navitaire’s online news and features publication
 Navitaire’s group for health and wellness enthusiasts
 - Member, Graphic Designer (2011 - 2013)
 
-### UST Journalism SocietyUST Journalism Society
+### UST Journalism Society
 Official group for all UST Journalism students
 - Member (2004 - 2008)
 

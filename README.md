@@ -6,12 +6,13 @@ I am [Imee Malabonga](https://github.com/imeemalabonga) - _Technical Writer, Web
 
 ## About Me
 
-Experienced technical writer and web content developer with 15 years of successful experience in technical documentation and web content development. Recognized consistently for performance excellence and contributions to success in various tech industries including aviation/airline software solutions, semiconductors, payment processing software, and small business enterprise software. Demonstrates firm grasp of modern editing and publishing applications, such as Microsoft Visual Studio Code and WordPress. Specializes in documenting APIs and integration.
+Experienced technical writer and web content developer with 15+ years of successful experience in technical documentation and web content development. Recognized consistently for performance excellence and contributions to success in various tech industries including aviation/airline software solutions, semiconductors, payment processing software, and small business enterprise software. Demonstrates firm grasp of modern editing and publishing applications, such as Microsoft Visual Studio Code and WordPress. Specializes in documenting APIs and software.
 
 ## Technical Writing and Documentation Experience
 
-### Senior Technical Writer - APIs and Integrations
-**Deltek** (March 2022 - present)
+### Senior Product Content Writer - APIs and Integrations
+**Deltek** (March 2022 - present)<br />
+_(role title was renamed; previously "Senior Technical Writer - APIs and Integrations")_
 - Creates, updates, and uploads integration reference documentation and release notes descriptions for several products.
 - Updates and uploads API documentation for several products.
 - Regularly contributes to the team terminology list project.
@@ -148,7 +149,7 @@ _(DZSR is now Radyo Pilipinas Dos)_
 ## Education
 
 ### Certificate in Professional Technical Writing
-University of Washington (November 2022)
+University of Washington - Professional & Continuing Education (November 2022)
 - Portfolio Project (Spring Quarter '22): [How to Create a Basic Writer's Portfolio Website Using WordPress](https://www.linkedin.com/in/imeemalabonga/overlay/education/782843538/multiple-media-viewer?profileId=ACoAABBNiRwBnCmnEuhYV-6boKijmvKX3nwv40U&treasuryMediaId=1635492569254&type=DOCUMENT&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByKk02DdUTA%2BTqKEDzbdz0g%3D%3D)
 - Portfolio Project Alpha - Writer (Summer Quarter '22): [Simple Guide to Raising Abandoned Kittens](https://www.linkedin.com/in/imeemalabonga/overlay/education/782843538/multiple-media-viewer?profileId=ACoAABBNiRwBnCmnEuhYV-6boKijmvKX3nwv40U&treasuryMediaId=1635495610598&type=DOCUMENT&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByKk02DdUTA%2BTqKEDzbdz0g%3D%3D) (group project with Serenity Lumbard and Skyler Scott)
 - Portfolio Project Beta - Production Specialist (Summer Quarter '22): [How to Tag Fics on AO3](https://www.linkedin.com/in/imeemalabonga/overlay/education/782843538/multiple-media-viewer?profileId=ACoAABBNiRwBnCmnEuhYV-6boKijmvKX3nwv40U&treasuryMediaId=1635498007430&type=DOCUMENT&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByKk02DdUTA%2BTqKEDzbdz0g%3D%3D)
@@ -156,7 +157,7 @@ University of Washington (November 2022)
 - Portfolio Project (Autumn Quarter '22): [Autism Police Training Website](https://autismpolicetraining.wordpress.com/) (group project with Victor Garciamontes, Janet Khokhar, Jen Leary)
 
 ### Bachelor of Arts in Journalism
-University of Santo Tomas, Manila (March 2008)
+University of Santo Tomas, Manila - Faculty of Arts & Letters (March 2008)
 - Thesis: [Views on Professionalizing Newspaper Journalism In the Philippines: A Historical Approach"](https://www.linkedin.com/in/imeemalabonga/overlay/1635527947975/single-media-viewer?type=DOCUMENT&profileId=ACoAABBNiRwBnCmnEuhYV-6boKijmvKX3nwv40U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B3GHTT3uSTCiCJdtwwF0p1w%3D%3D) (co-authored with Shiela Francisco, Ana Carmela Ledesma, and Denise Limson)
 
 ### Primary and Secondary Education

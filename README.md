@@ -17,6 +17,7 @@ _(role title was renamed; previously "Senior Technical Writer - APIs and Integra
 - Updates and uploads API documentation for several products.
 - Regularly contributes to the team terminology list project.
 - Created and presented the training materials and demo of the SDL Tridion Docs Collective Spaces tool for a small group of subject matter experts (SMEs).
+- Created and presented the training materials and demo of the Generative AI (GenAI) release notes plugin for Azure DevOps for several teams.
     
 ### Technical Writer - API
 **AdButler** (May 2021 - January 2022)
@@ -193,13 +194,28 @@ Siena College, Quezon City (March 2004)
 
 ### Tech Skills
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+- HTML5
+- CSS3
+- JavaScript
+- MySQL
+- Git
+- Apigee API Management
+- SDL Tridion
+- PHP
+- Confluence
+- Azure DevOps/TFS
+- Workato
+- Postman API
+- XML
+- Visio
+- WordPress
+- Swagger API
+- Adobe FrameMaker
+- Adobe Robohelp
+- MadCap Flare
+- Drupal
+- Markdown
+- ClickUp
 
 ### Soft Skills
 

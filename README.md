@@ -2,11 +2,11 @@
 
 [![Header](https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif "Header")](https://www.linkedin.com/in/imeemalabonga)
 
-I am [Imee Malabonga](https://github.com/imeemalabonga) - _Technical Writer, Web Content Developer, Documentation Specialist_
+I am [Imee Adam](https://github.com/imeemalabonga) - _Technical Writer, Web Content Developer, Documentation Specialist_
 
 ## About Me
 
-Experienced technical writer and web content developer with 15+ years of successful experience in technical documentation and web content development. Recognized consistently for performance excellence and contributions to success in various tech industries including aviation/airline software solutions, semiconductors, payment processing software, and small business enterprise software. Demonstrates firm grasp of modern editing and publishing applications, such as Microsoft Visual Studio Code and WordPress. Specializes in documenting APIs and software.
+Experienced technical writer and web content developer with 17+ years of successful experience in journalism, technical documentation, and web content development. Recognized consistently for performance excellence and contributions to success in various tech industries including aviation/airline software solutions, semiconductors, payment processing software, and small business enterprise software. Demonstrates firm grasp of modern editing and publishing applications, such as Microsoft Visual Studio Code, Postman API, and WordPress. Specializes in documenting APIs and software.
 
 ## Technical Writing and Documentation Experience
 

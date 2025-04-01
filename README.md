@@ -18,6 +18,7 @@ _(role title was renamed; previously "Senior Technical Writer - APIs and Integra
 - Regularly contributes to the team terminology list project.
 - Created and presented the training materials and demo of the SDL Tridion Docs Collective Spaces tool for a small group of subject matter experts (SMEs).
 - Created and presented the training materials and demo of the Generative AI (GenAI) release notes plugin for Azure DevOps for several teams.
+- Serves as virtual host for Deltek Virtual Live Classes (VLCs).
     
 ### Technical Writer - API
 **AdButler** (May 2021 - January 2022)
@@ -263,4 +264,4 @@ Official print publication for and by Siena College’s elementary and high scho
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/imeemalabonga)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:imeemalabonga@gmail.com)
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=imeemalabonga&style=flat-square&color=blue" alt=""/><br>© 2023 Imee Malabonga, all rights reserved.</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=imeemalabonga&style=flat-square&color=blue" alt=""/><br>© 2025 Imee Adam, all rights reserved.</p>

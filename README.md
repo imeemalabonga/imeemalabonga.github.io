@@ -13,12 +13,14 @@ Experienced technical writer and web content developer with 17+ years of success
 ### Senior Product Content Writer - APIs and Integrations
 **Deltek** (March 2022 - present)<br />
 _(role title was renamed; previously "Senior Technical Writer - APIs and Integrations")_
+Develops and maintains documentation for API and Integration products at Deltek. Takes responsibility, with minimal supervision, for all aspects of documentation projects, including planning, researching, scheduling, and creating content. Participates in moderately complex to complex projects. Participates in team decision-making about style, technology, and process issues. Helps less experienced writers with style, organizational, and technical issues.
 - Creates, updates, and uploads integration reference documentation and release notes descriptions for several products.
 - Updates and uploads API documentation for several products.
 - Regularly contributes to the team terminology list project.
 - Created and presented the training materials and demo of the SDL Tridion Docs Collective Spaces tool for a small group of subject matter experts (SMEs).
 - Created and presented the training materials and demo of the Generative AI (GenAI) release notes plugin for Azure DevOps for several teams.
 - Serves as virtual host for Deltek Virtual Live Classes (VLCs).
+- Converts documents from Word format to a more modern web format that utilizes markdown, ensuring accuracy and formatting consistency.
     
 ### Technical Writer - API
 **AdButler** (May 2021 - January 2022)
